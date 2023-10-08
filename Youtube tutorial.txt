@@ -6,15 +6,3 @@ master
 Grana C
 Grana C
 Grana B
-B02
-01
-02
-03
-03
-04
-B1
-B2
-A1
-A2
-C1
-C2
